@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79a73de1-f1d4-4797-9032-80f2fb259294" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Final知识点/FinalTest004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/NONDA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/YAMAHA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/CustomerServe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Equals/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/toString/Test01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,59 +27,31 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/Engine.java">
+        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Equals/Test01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="14" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="625">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="725">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/YAMAHA.java">
+        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/NONDA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-              <folding>
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,6 +63,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Arquillian JUnit Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -117,8 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/finalTest.java" />
-        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/exceptionTest.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/constructTest.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Student.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Computer.java" />
@@ -128,7 +92,6 @@
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Animal.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Master.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Snack.java" />
-        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Test.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/datTest.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/封装/datTest.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/构造器/finalTest.java" />
@@ -167,6 +130,10 @@
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/Car.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/YAMAHA.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/toString/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/toString/Test01Test.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Equals/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Test.java" />
       </list>
     </option>
   </component>
@@ -248,7 +215,7 @@
               <item name="nlpcn" type="462c0819:PsiDirectoryNode" />
               <item name="commons" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="接口" type="462c0819:PsiDirectoryNode" />
+              <item name="Equals" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sladeRode" type="b2602c69:ProjectViewProjectNode" />
@@ -259,8 +226,7 @@
               <item name="nlpcn" type="462c0819:PsiDirectoryNode" />
               <item name="commons" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="接口" type="462c0819:PsiDirectoryNode" />
-              <item name="Car" type="462c0819:PsiDirectoryNode" />
+              <item name="多态" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,12 +239,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.org.nlpcn.commons.utils.toString" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -292,52 +269,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="A (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.抽象类.A" />
-      <module name="sladeRode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.org.nlpcn.commons.utils.抽象类.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CustomerServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.接口.CustomerServiceImpl" />
-      <module name="sladeRode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.org.nlpcn.commons.utils.接口.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FinalTest004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.Final知识点.FinalTest004" />
-      <module name="sladeRode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.org.nlpcn.commons.utils.Final知识点.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.接口.Car.Test" />
       <module name="sladeRode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.org.nlpcn.commons.utils.接口.Car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.多态.Test" />
+      <module name="sladeRode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.org.nlpcn.commons.utils.多态.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,13 +309,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.Equals.Test01" />
+      <module name="sladeRode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.org.nlpcn.commons.utils.Equals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.toString.Test01" />
+      <module name="sladeRode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.org.nlpcn.commons.utils.toString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test01 (1)" />
+        <item itemvalue="Application.Test01" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.CustomerServiceImpl" />
-        <item itemvalue="Application.FinalTest004" />
-        <item itemvalue="Application.A (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +355,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566615870016</updated>
-      <workItem from="1566615873784" duration="39565000" />
+      <workItem from="1566615873784" duration="42915000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1566747642507</created>
@@ -387,11 +364,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566747642507</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1566750218241</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566750218241</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39565000" />
+    <option name="totallyTimeSpent" value="42915000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -444,17 +428,17 @@
       <window_info id="Favorites" order="3" sideWeight="0.50185186" side_tool="true" weight="0.25" />
       <window_info id="JavaEE:App" order="4" sideWeight="0.50185186" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49814814" visible="true" weight="0.37597656" />
-      <window_info id="Structure" order="7" sideWeight="0.50185186" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="6" sideWeight="0.50185186" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.49814814" visible="true" weight="0.37597656" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50097656" side_tool="true" weight="0.32988507" />
-      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.49902344" visible="true" weight="0.32988507" />
+      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.49902344" weight="0.32988507" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49902344" weight="0.17068966" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49902344" visible="true" weight="0.17068966" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -478,61 +462,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="323" selection-start-line="323" selection-end-line="323" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Bird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="17" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Snack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-          <folding>
-            <element signature="e#85#86#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/封装/datUse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/封装/datTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -674,35 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
-          <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Master.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="27" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -962,8 +862,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="475">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/toString/Test01Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="73" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Snack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Master.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="27" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/toString/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Equals/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>

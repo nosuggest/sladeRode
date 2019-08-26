@@ -7,6 +7,19 @@ public class Test {
         Bird b = new Bird();
         Master m = new Master();
 
+        Animal a = new Cat();
+        Animal aa = new Animal();
+
+        //Cat子类型方法数量及属性数大于父类aa，无法向下转型
+//        Cat cc = (Cat) aa;
+
+        //Cat子类型来自于new Cat()的引用a，cc方法数与属性数与a一直，所以可以向下转型
+        if (a instanceof Cat){
+            System.out.println(true);
+            Cat cc = (Cat) a;
+        }
+
+
         Snack s = new Snack();
 
         m.feed(c);
