@@ -4,17 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Final知识点/FinalTest004.java" line="6" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a73de1-f1d4-4797-9032-80f2fb259294" name="Default Changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/FormRecommendTest/Article.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/FormRecommendTest/ArticleTest01.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/Car.java" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/Car.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/Test.java" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/Car/Test.java" />
-    </list>
+    <list default="true" id="79a73de1-f1d4-4797-9032-80f2fb259294" name="Default Changelist" comment="Default Changelist" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -983,7 +973,7 @@
       <updated>1566615870016</updated>
       <workItem from="1566615873784" duration="39565000" />
       <workItem from="1566780754802" duration="4909000" />
-      <workItem from="1566991406086" duration="49000" />
+      <workItem from="1566991406086" duration="364000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1566747642507</created>
@@ -991,11 +981,17 @@
       <option name="project" value="LOCAL" />
       <updated>1566747642507</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Default Changelist">
+      <created>1566991467181</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566991467181</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44523000" />
+    <option name="totallyTimeSpent" value="44838000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1044,7 +1040,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1073,6 +1070,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="14" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1080,6 +1078,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#105#106#0" expanded="false" />
+            <element signature="e#131#132#0" expanded="false" />
+            <element signature="e#163#164#0" expanded="false" />
+            <element signature="e#188#189#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1087,6 +1091,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,6 +1106,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1374,6 +1380,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3451883">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#105#106#0" expanded="false" />
+            <element signature="e#131#132#0" expanded="false" />
+            <element signature="e#163#164#0" expanded="false" />
+            <element signature="e#188#189#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1381,6 +1393,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15690376">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1388,6 +1401,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5962343">
           <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1395,6 +1409,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21966527">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
