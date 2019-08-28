@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Final知识点/FinalTest004.java" line="6" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a73de1-f1d4-4797-9032-80f2fb259294" name="Default Changelist" comment="Default Changelist">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="79a73de1-f1d4-4797-9032-80f2fb259294" name="Default Changelist" comment="Default Changelist" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -937,7 +935,7 @@
       <updated>1566615870016</updated>
       <workItem from="1566615873784" duration="39565000" />
       <workItem from="1566780754802" duration="4909000" />
-      <workItem from="1566991406086" duration="487000" />
+      <workItem from="1566991406086" duration="549000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1566747642507</created>
@@ -957,11 +955,17 @@
       <option name="project" value="LOCAL" />
       <updated>1566991774070</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1566991898786</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1566991898786</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44961000" />
+    <option name="totallyTimeSpent" value="45023000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
