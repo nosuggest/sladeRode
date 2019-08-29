@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79a73de1-f1d4-4797-9032-80f2fb259294" name="Default Changelist" comment="Default Changelist">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/InterfaceA.java" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/InterfaceA.java" />
-    </list>
+    <list default="true" id="79a73de1-f1d4-4797-9032-80f2fb259294" name="Default Changelist" comment="Default Changelist" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -981,11 +978,17 @@
       <option name="project" value="LOCAL" />
       <updated>1566996903274</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Default Changelist">
+      <created>1567043787114</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567043787114</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13110000" />
+    <option name="totallyTimeSpent" value="13130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="0" />
