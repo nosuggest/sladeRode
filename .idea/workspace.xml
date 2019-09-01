@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79a73de1-f1d4-4797-9032-80f2fb259294" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/异常/ExceptionTest09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Arrays/ArrayTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,15 +25,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/异常/ExceptionTest09.java">
+        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Arrays/ArrayTest01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="515">
+              <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -75,6 +70,7 @@
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/异常/自定义异常/IlegalNameException.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/异常/自定义异常/Test01.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/异常/ExceptionTest09.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Arrays/ArrayTest01.java" />
       </list>
     </option>
   </component>
@@ -155,18 +151,7 @@
               <item name="nlpcn" type="462c0819:PsiDirectoryNode" />
               <item name="commons" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="异常" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sladeRode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sladeRode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="nlpcn" type="462c0819:PsiDirectoryNode" />
-              <item name="commons" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="父类调用" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExceptionTest09">
+  <component name="RunManager" selected="Application.ArrayTest01">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -497,13 +482,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.异常.ExceptionTest05" />
+    <configuration name="ArrayTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.Arrays.ArrayTest01" />
       <module name="sladeRode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.org.nlpcn.commons.utils.异常.*" />
+          <option name="PATTERN" value="main.org.nlpcn.commons.utils.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -701,19 +686,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.ExceptionTest05" />
       <item itemvalue="Application.ExceptionTest06" />
       <item itemvalue="Application.ExceptionTest07" />
       <item itemvalue="Application.Test01" />
       <item itemvalue="Application.ExceptionTest09" />
+      <item itemvalue="Application.ArrayTest01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayTest01" />
         <item itemvalue="Application.ExceptionTest09" />
         <item itemvalue="Application.Test01" />
         <item itemvalue="Application.ExceptionTest07" />
         <item itemvalue="Application.ExceptionTest06" />
-        <item itemvalue="Application.ExceptionTest05" />
       </list>
     </recent_temporary>
   </component>
@@ -742,7 +727,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567326651302</updated>
       <workItem from="1567326661516" duration="749000" />
-      <workItem from="1567327816961" duration="559000" />
+      <workItem from="1567327816961" duration="2442000" />
     </task>
     <task id="LOCAL-00003" summary="Default Changelist">
       <created>1567328027707</created>
@@ -751,11 +736,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567328027708</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1567328389098</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567328389098</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17479000" />
+    <option name="totallyTimeSpent" value="19362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -846,13 +838,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/实现单例模式/Test02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1243,13 +1228,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/异常/ExceptionTest09.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
+        <state relative-caret-position="675">
           <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#149#150#0" expanded="true" />
             <element signature="e#178#179#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Arrays/ArrayTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
         </state>
       </provider>
     </entry>
