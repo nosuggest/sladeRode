@@ -22,7 +22,7 @@ class People{
     }
 
 //    @Override
-//    public String toString() {
+//    public StringPart toString() {
 //        return "People{" +
 //                "age=" + age +
 //                ", name='" + name + '\'' +
