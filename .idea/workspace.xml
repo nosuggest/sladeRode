@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79a73de1-f1d4-4797-9032-80f2fb259294" name="Default Changelist" comment="Default Changelist">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/排序/BubbleSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/排序/SelectSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/二分法查找/BinarySearch.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,11 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SelectSort.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SelectSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/排序/SelectSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8786611">
+            <state vertical-scroll-proportion="0.0">
               <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/二分法查找/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6589958">
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -76,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Test/Test01.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/排序/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/排序/SelectSort.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/二分法查找/BinarySearch.java" />
       </list>
     </option>
   </component>
@@ -200,7 +209,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="排序" />
+              <option name="myItemId" value="二分法查找" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -231,27 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SelectSort">
-    <configuration default="false" name="OuterClassUnnamed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="main.org.nlpcn.commons.utils.类.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.类.OuterClassUnnamed" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sladeRode" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BinarySearch">
     <configuration default="false" name="OuterClassUnnamed (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -320,6 +309,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.排序.SelectSort" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="sladeRode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="main.org.nlpcn.commons.utils.二分法查找.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.二分法查找.BinarySearch" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -953,19 +962,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Test01" />
-      <item index="1" class="java.lang.String" itemvalue="Application.OuterClassUnnamed" />
-      <item index="2" class="java.lang.String" itemvalue="Application.OuterClassUnnamed (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.OuterClassTemp (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BubbleSort" />
-      <item index="5" class="java.lang.String" itemvalue="Application.SelectSort" />
+      <item index="1" class="java.lang.String" itemvalue="Application.OuterClassUnnamed (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.OuterClassTemp (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BubbleSort" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SelectSort" />
+      <item index="5" class="java.lang.String" itemvalue="Application.BinarySearch" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SelectSort" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BubbleSort" />
-        <item index="2" class="java.lang.String" itemvalue="Application.OuterClassTemp (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.OuterClassUnnamed (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.OuterClassUnnamed" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BinarySearch" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SelectSort" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BubbleSort" />
+        <item index="3" class="java.lang.String" itemvalue="Application.OuterClassTemp (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.OuterClassUnnamed (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -994,13 +1003,19 @@
       <workItem from="1567150300146" duration="6880000" />
       <workItem from="1567386520082" duration="68000" />
       <workItem from="1567390552121" duration="18000" />
-      <workItem from="1567431191293" duration="1654000" />
+      <workItem from="1567431191293" duration="2419000" />
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Default Changelist">
+      <created>1567432862494</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567432862494</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30256000" />
+    <option name="totallyTimeSpent" value="31021000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
@@ -1080,13 +1095,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/异常/exceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/执行先后顺序/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1434,8 +1442,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/排序/SelectSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8786611">
+        <state vertical-scroll-proportion="0.0">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/二分法查找/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6589958">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="43" />
           <folding />
         </state>
       </provider>
