@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79a73de1-f1d4-4797-9032-80f2fb259294" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest08.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Arrays/ArrayTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Arrays/ArrayTest05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/toString/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/toString/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest06.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -39,10 +29,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest06.java">
+        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest07.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+            <state relative-caret-position="175">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -87,6 +77,7 @@
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest04.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest05.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest06.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest07.java" />
       </list>
     </option>
   </component>
@@ -760,7 +751,7 @@
       <workItem from="1567386520082" duration="68000" />
       <workItem from="1567390552121" duration="18000" />
       <workItem from="1567431191293" duration="2419000" />
-      <workItem from="1567436028259" duration="3304000" />
+      <workItem from="1567436028259" duration="4582000" />
     </task>
     <task id="LOCAL-00003" summary="Default Changelist">
       <created>1567432862494</created>
@@ -769,11 +760,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567432862494</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1567439347753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567439347753</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36097000" />
+    <option name="totallyTimeSpent" value="37375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -791,7 +789,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946353" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49892703" visible="true" weight="0.24555555" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49892703" visible="true" weight="0.5288889" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39920425" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -857,13 +855,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/多态/Master.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1183,8 +1174,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest06.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        <state relative-caret-position="187">
+          <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
