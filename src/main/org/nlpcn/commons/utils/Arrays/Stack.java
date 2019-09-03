@@ -34,6 +34,4 @@ public class Stack {
             return elements[--index];
         }
     }
-
-
 }
