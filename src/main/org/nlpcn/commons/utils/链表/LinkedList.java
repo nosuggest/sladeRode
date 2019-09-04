@@ -45,7 +45,7 @@ public class LinkedList {
             return true;
         }
 
-        int idx = 0;
+        int idx = 1;
         Node lastNode = head;
         Node curNode = lastNode.node;
         while (curNode != null) {
