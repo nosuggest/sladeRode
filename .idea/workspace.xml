@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79a73de1-f1d4-4797-9032-80f2fb259294" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/CollectionTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/CollectionTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/CollectionTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/列表/ListTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/列表/ListTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/CollectionTest04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/链表/LinkedTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/链表/LinkedTest01.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -31,23 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/CollectionTest02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/CollectionTest03.java">
+        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/列表/ListTest02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+            <state relative-caret-position="525">
+              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,6 +54,9 @@
     <findStrings>
       <find>detailMessage</find>
       <find>ListItr</find>
+      <find>next</find>
+      <find>hasNext</find>
+      <find>apacity</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -110,6 +99,9 @@
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/CollectionTest01.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/CollectionTest02.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/CollectionTest03.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/CollectionTest04.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/列表/ListTest01.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/列表/ListTest02.java" />
       </list>
     </option>
   </component>
@@ -190,7 +182,7 @@
               <item name="nlpcn" type="462c0819:PsiDirectoryNode" />
               <item name="commons" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="集合" type="462c0819:PsiDirectoryNode" />
+              <item name="列表" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -219,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CollectionTest03">
+  <component name="RunManager" selected="Application.ListTest02">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -521,20 +513,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.集合.CollectionTest01" />
-      <module name="sladeRode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.org.nlpcn.commons.utils.集合.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CollectionTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.集合.CollectionTest02" />
       <module name="sladeRode" />
@@ -563,13 +541,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.枚举类型.EnumTest01" />
+    <configuration name="CollectionTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.集合.CollectionTest04" />
       <module name="sladeRode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.org.nlpcn.commons.utils.枚举类型.*" />
+          <option name="PATTERN" value="main.org.nlpcn.commons.utils.集合.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -577,13 +555,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.包装类型.IntegerTest05" />
+    <configuration name="ListTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.列表.ListTest01" />
       <module name="sladeRode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.org.nlpcn.commons.utils.包装类型.*" />
+          <option name="PATTERN" value="main.org.nlpcn.commons.utils.列表.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.列表.ListTest02" />
+      <module name="sladeRode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.org.nlpcn.commons.utils.列表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -742,19 +734,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Test01" />
-      <item itemvalue="Application.IntegerTest05" />
-      <item itemvalue="Application.EnumTest01" />
-      <item itemvalue="Application.CollectionTest01" />
       <item itemvalue="Application.CollectionTest02" />
       <item itemvalue="Application.CollectionTest03" />
+      <item itemvalue="Application.CollectionTest04" />
+      <item itemvalue="Application.ListTest01" />
+      <item itemvalue="Application.ListTest02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListTest02" />
+        <item itemvalue="Application.ListTest01" />
+        <item itemvalue="Application.CollectionTest04" />
         <item itemvalue="Application.CollectionTest03" />
         <item itemvalue="Application.CollectionTest02" />
-        <item itemvalue="Application.CollectionTest01" />
-        <item itemvalue="Application.EnumTest01" />
-        <item itemvalue="Application.IntegerTest05" />
       </list>
     </recent_temporary>
   </component>
@@ -789,7 +781,7 @@
       <workItem from="1567431191293" duration="2419000" />
       <workItem from="1567436028259" duration="4582000" />
       <workItem from="1567471313142" duration="1181000" />
-      <workItem from="1567606889520" duration="3224000" />
+      <workItem from="1567606889520" duration="4903000" />
     </task>
     <task id="LOCAL-00003" summary="Default Changelist">
       <created>1567432862494</created>
@@ -819,11 +811,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567524223903</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Default Changelist">
+      <created>1567610128362</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567610128362</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47438000" />
+    <option name="totallyTimeSpent" value="49117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -900,48 +899,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/权限/package1/UserTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/权限/package1/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Final知识点/FinalTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Final知识点/FinalTest02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Final知识点/FinalTest03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/抽象类/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Final知识点/FinalTest004.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1253,6 +1210,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/CollectionTest04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/util/Collections.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="408" column="45" selection-start-line="408" selection-start-column="41" selection-end-line="408" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="61" column="19" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/列表/ListTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2193">
+          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/列表/ListTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
