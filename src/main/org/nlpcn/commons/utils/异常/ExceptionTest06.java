@@ -21,7 +21,7 @@ public class ExceptionTest06 {
         try {
 //            return;
             System.exit(0);
-//            FileInputStream fis = new FileInputStream("D:/as.txt");
+//            FileInputStreamTest01 fis = new FileInputStreamTest01("D:/as.txt");
         }
         finally {
             System.out.println("here");

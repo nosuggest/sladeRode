@@ -29,7 +29,7 @@ public class ExceptionTest04 {
         //编译未通过
         //Error:(30, 35) java: 未报告的异常错误java.io.FileNotFoundException; 必须对其进行捕获或声明以便抛出
 //        try {
-//            FileInputStream fis = new FileInputStream("D:/123.txt");
+//            FileInputStreamTest01 fis = new FileInputStreamTest01("D:/123.txt");
 //        }catch (ArrayStoreException e1) {
 //            System.out.println("io");
 //        }
@@ -37,7 +37,7 @@ public class ExceptionTest04 {
         //编译未通过
         //Error:(39, 21) java: 未报告的异常错误java.io.IOException; 必须对其进行捕获或声明以便抛出
 //        try {
-//            FileInputStream fis = new FileInputStream("D:/123.txt");
+//            FileInputStreamTest01 fis = new FileInputStreamTest01("D:/123.txt");
 //            fis.read();
 //        }catch (FileNotFoundException e1) {
 //            System.out.println("io");
@@ -56,7 +56,7 @@ public class ExceptionTest04 {
         //编译未通过，IOException已经包含了FileNotFoundException
         //catch可以是多个，但是必须是从上到下，从小到大
 //        try {
-//            FileInputStream fis = new FileInputStream("D:/123.txt");
+//            FileInputStreamTest01 fis = new FileInputStreamTest01("D:/123.txt");
 //            fis.read();
 //        } catch (IOException e1) {
 //            System.out.println("filenot");
