@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79a73de1-f1d4-4797-9032-80f2fb259294" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/线程锁/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/线程锁/DeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/线程锁/ThreadTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/线程锁/ThreadTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/线程锁/ThreadTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/线程锁/ThreadTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/ReflectTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/ReflectTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,7 +29,32 @@
     <favorites_list name="sladeRode" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/ReflectTest02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="10" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,10 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/Arrays/HotelTest.java" />
-        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest08.java" />
-        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/SetTest01.java" />
-        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/SetTest02.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/SortedSetTest01.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/数据流/FileInputStreamTest01.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/数据流/FileInputStreamTest02.java" />
@@ -108,6 +127,10 @@
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/线程锁/Account.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/线程锁/ThreadTest04.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/线程锁/DeadLock.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/ReflectTest01.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/ReflectTest02.java" />
       </list>
     </option>
   </component>
@@ -188,19 +211,7 @@
               <item name="nlpcn" type="462c0819:PsiDirectoryNode" />
               <item name="commons" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="线程锁" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sladeRode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sladeRode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="nlpcn" type="462c0819:PsiDirectoryNode" />
-              <item name="commons" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="线程锁" type="462c0819:PsiDirectoryNode" />
-              <item name="ThreadTest04.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="反射机制" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -241,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeadLock">
+  <component name="RunManager" selected="Application.ReflectTest02">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -557,6 +568,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.反射机制.EmployeeTest" />
+      <module name="sladeRode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.org.nlpcn.commons.utils.反射机制.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.反射机制.ReflectTest01" />
+      <module name="sladeRode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.org.nlpcn.commons.utils.反射机制.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.反射机制.ReflectTest02" />
+      <module name="sladeRode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.org.nlpcn.commons.utils.反射机制.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.Test.Test01" />
       <module name="sladeRode" />
@@ -571,34 +624,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.线程锁.ThreadTest01" />
-      <module name="sladeRode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.org.nlpcn.commons.utils.线程锁.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.线程锁.ThreadTest02" />
-      <module name="sladeRode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.org.nlpcn.commons.utils.线程锁.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ThreadTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.线程锁.ThreadTest04" />
       <module name="sladeRode" />
@@ -606,20 +631,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.org.nlpcn.commons.utils.线程锁.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadTest09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.Thread.ThreadTest09" />
-      <module name="sladeRode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.org.nlpcn.commons.utils.Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -764,19 +775,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Test01" />
-      <item itemvalue="Application.ThreadTest09" />
-      <item itemvalue="Application.ThreadTest01" />
-      <item itemvalue="Application.ThreadTest02" />
       <item itemvalue="Application.ThreadTest04" />
       <item itemvalue="Application.DeadLock" />
+      <item itemvalue="Application.EmployeeTest" />
+      <item itemvalue="Application.ReflectTest01" />
+      <item itemvalue="Application.ReflectTest02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReflectTest02" />
+        <item itemvalue="Application.ReflectTest01" />
+        <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.DeadLock" />
         <item itemvalue="Application.ThreadTest04" />
-        <item itemvalue="Application.ThreadTest02" />
-        <item itemvalue="Application.ThreadTest01" />
-        <item itemvalue="Application.ThreadTest09" />
       </list>
     </recent_temporary>
   </component>
@@ -813,7 +824,7 @@
       <workItem from="1567471313142" duration="1181000" />
       <workItem from="1567606889520" duration="6642000" />
       <workItem from="1567696107681" duration="12758000" />
-      <workItem from="1567825146072" duration="16094000" />
+      <workItem from="1567825146072" duration="18405000" />
     </task>
     <task id="LOCAL-00003" summary="Default Changelist">
       <created>1567432862494</created>
@@ -934,16 +945,24 @@
       <option name="project" value="LOCAL" />
       <updated>1567862342840</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Thread">
+      <created>1567868467478</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1567868467478</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79708000" />
+    <option name="totallyTimeSpent" value="82019000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1088" y="-7" width="1096" height="1896" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30273438" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3564453" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -953,7 +972,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29597703" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18965517" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1029,55 +1048,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/数据流/Copy01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/nio/cs/StreamDecoder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="70" column="48" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="48" />
-          <folding>
-            <element signature="e#2307#2308#0" expanded="true" />
-            <element signature="e#2372#2373#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/InputStreamReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="155" column="23" selection-start-line="155" selection-start-column="23" selection-end-line="155" selection-end-column="23" />
-          <folding>
-            <element signature="e#4318#4319#0" expanded="true" />
-            <element signature="e#4357#4358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/数据流/FileInputStreamTest04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/数据流/FileOutputStreamTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/数据流/FileReaderTest01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1452,6 +1422,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="260" column="27" selection-start-line="260" selection-start-column="27" selection-end-line="260" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/ReflectTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/ReflectTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
