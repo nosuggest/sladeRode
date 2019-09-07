@@ -1,6 +1,6 @@
-package main.org.nlpcn.commons.utils.Tread;
+package main.org.nlpcn.commons.utils.Thread;
 
-public class TreadTest01 {
+public class ThreadTest01 {
     //单线程，都在主线程中，共享一个栈空间
     public static void main(String[] args) {
         m1();
