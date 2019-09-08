@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79a73de1-f1d4-4797-9032-80f2fb259294" name="Default Changelist" comment="Default Changelist">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/CustomerService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/FieldTest02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/FiledTest01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/MethodTest01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/MethodTest02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/反射机制/构造方法.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest06.class" afterPath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest06.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,8 +32,8 @@
       <file leaf-file-name="Shopping.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/泛型/Shopping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44291338">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.3321234">
+              <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
               <folding>
                 <element signature="e#267#268#0" expanded="true" />
                 <element signature="e#328#329#0" expanded="true" />
@@ -1170,7 +1161,7 @@
       <workItem from="1567644955078" duration="1487000" />
       <workItem from="1567752455082" duration="9028000" />
       <workItem from="1567763104924" duration="884000" />
-      <workItem from="1567919936983" duration="5135000" />
+      <workItem from="1567919936983" duration="5593000" />
     </task>
     <task id="LOCAL-00003" summary="Default Changelist">
       <created>1567432862494</created>
@@ -1226,15 +1217,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567762726727</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Default Changelist">
+      <created>1567925338001</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1567925338001</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63405000" />
+    <option name="totallyTimeSpent" value="63863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1243,7 +1240,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28912467" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2320955" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1283,13 +1280,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/CustomerServe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/接口/CustomerServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1451,13 +1441,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33263597">
-          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36401674">
@@ -1575,8 +1558,8 @@
         <state vertical-scroll-proportion="0.39539748">
           <caret line="182" column="5" selection-start-line="182" selection-start-column="5" selection-end-line="182" selection-end-column="5" />
           <folding>
-            <element signature="e#5730#5731#0" expanded="true" />
-            <element signature="e#5762#5763#0" expanded="true" />
+            <element signature="e#5730#5731#0" expanded="false" />
+            <element signature="e#5762#5763#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1586,7 +1569,7 @@
         <state vertical-scroll-proportion="0.27108434">
           <caret line="20" column="73" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="73" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1612,7 +1595,7 @@
         <state vertical-scroll-proportion="0.5610236">
           <caret line="19" column="85" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="85" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1651,10 +1634,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3321234">
+          <caret line="998" column="22" selection-start-line="998" selection-start-column="22" selection-end-line="998" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3321234">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/泛型/Shopping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44291338">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.3321234">
+          <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
           <folding>
             <element signature="e#267#268#0" expanded="true" />
             <element signature="e#328#329#0" expanded="true" />
