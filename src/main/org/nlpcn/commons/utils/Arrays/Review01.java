@@ -46,4 +46,6 @@ public class Review01 {
 *   数组扩容：
 *       - 重新初始化一个更大空间的数组中
 *       - 循环赋值到新的空间数组中
+*       System.arraycopy(a,0,b,0,a.length);
+*       把a copy到b
 * */
