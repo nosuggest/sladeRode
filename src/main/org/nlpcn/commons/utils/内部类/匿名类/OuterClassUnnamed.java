@@ -1,4 +1,4 @@
-package main.org.nlpcn.commons.utils.内部类;
+package main.org.nlpcn.commons.utils.内部类.匿名类;
 
 /**
  * Created by slade on 2019/8/28.
