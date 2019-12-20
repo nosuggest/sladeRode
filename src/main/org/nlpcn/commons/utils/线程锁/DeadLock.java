@@ -29,13 +29,14 @@ class T1 implements Runnable {
     @Override
     public void run() {
         synchronized (o1) {
+            System.out.println("T1 O1");
             try {
                 Thread.sleep(1000);
             } catch (Exception e) {
                 System.out.println(e.getMessage());
             }
             synchronized (o2) {
-
+            System.out.println("T1 O2");
             }
         }
     }
@@ -53,13 +54,14 @@ class T2 implements Runnable {
     @Override
     public void run() {
         synchronized (o2) {
+            System.out.println("T2 O1");
             try {
                 Thread.sleep(1000);
             } catch (Exception e) {
                 System.out.println(e.getMessage());
             }
             synchronized (o1) {
-
+            System.out.println("T2 O2");
             }
         }
     }
