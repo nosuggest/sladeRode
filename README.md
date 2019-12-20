@@ -1,5 +1,5 @@
 # sladeRode
-Java基础知识应知应会
+Java基础知识应知应会，算法工程师需要对工程也有一定深度的了解，可以不需要像后端一样精通，但是如下的知识点还需要熟练掌握，不然写出来都是bug的代码不妥的。
 
 
 # [Java基础语法](https://github.com/sladesha/sladeRode/tree/master/src/main/org/nlpcn/commons/utils)
@@ -37,7 +37,7 @@ Java基础知识应知应会
 - [线程锁](https://github.com/sladesha/sladeRode/tree/master/src/main/org/nlpcn/commons/utils/线程锁)
 - [链表](https://github.com/sladesha/sladeRode/tree/master/src/main/org/nlpcn/commons/utils/链表)
 - [集合](https://github.com/sladesha/sladeRode/tree/master/src/main/org/nlpcn/commons/utils/集合)
-    - [面试题]()
+    - [面试题](https://github.com/sladesha/sladeRode/blob/master/src/main/org/nlpcn/commons/utils/集合/集合常见问题.md)
 
 # [Spring基础使用](https://github.com/sladesha/sladeRode/tree/master/src/main/org/nlpcn/commons/src)
 - [IOC](https://github.com/sladesha/sladeRode/blob/master/src/main/org/nlpcn/commons/src/IoC技术.java)
