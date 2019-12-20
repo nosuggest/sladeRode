@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 
 /*
-*   iterator iterator():获取结婚的所以依赖的迭代器对象
+*   iterator iterator():获取集合的所以依赖的迭代器对象
 *   通过迭代器方法万能充集合的迭代(遍历)
 * */
 public class CollectionTest02 {
