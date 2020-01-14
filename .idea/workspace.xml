@@ -2,276 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79a73de1-f1d4-4797-9032-80f2fb259294" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_61.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_hankcs_hanlp_portable_1_7_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/projects/Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/org/nlpcn/commons/src/字符串拼接.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/src/IoC技术.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/ArrayTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/ArrayTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/ArrayTest03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/ArrayTest04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/ArrayTest05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/ArrayTest06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/ArrayTest07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/ArrayTest08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/Hotel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/HotelTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/Review01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/Room.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/StackOperationException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/StackTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Arrays/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Decorator/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Decorator/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Decorator/BufferedReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Decorator/Decorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Decorator/FileReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Decorator/Reader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Decorator/Test01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Decorator/Test02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Equals/Star.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Equals/Test01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/File/FileTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Final知识点/Chinese.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Final知识点/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Final知识点/FinalTest004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Final知识点/FinalTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Final知识点/FinalTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Final知识点/FinalTest03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Final知识点/FinalTest04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Final知识点/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/FormRecommendTest/Article.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/FormRecommendTest/ArticleTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/IOPropertiesReflect联合应用/Test01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/IOPropertiesReflect联合应用/Test02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/IOPropertiesReflect联合应用/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/IOPropertiesReflect联合应用/classinfo.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/IOPropertiesReflect联合应用/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Map/MapTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Map/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Map/SortedMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/StringBuilder/StringBuilderTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/StringPart/StringTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/StringPart/StringTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/StringPart/StringTest03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/StringPart/StringTest04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/StringPart/StringTest05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/StringPart/StringTest06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/StringPart/StringTest07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/StringPart/StringTest08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/Prcessor04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/Processer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/Processor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/Processor1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/Processor2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/Processor3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/Processor5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/Processor6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/ThreadTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/ThreadTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/ThreadTest03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/ThreadTest04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/ThreadTest05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/ThreadTest06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/ThreadTest07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/ThreadTest08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/Thread/ThreadTest09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/toString/People.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/toString/Test01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/二分法查找/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/交替输出/Num.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/交替输出/ProcessorEven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/交替输出/ProcessorOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/交替输出/Test01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/内部类/OuterClassMember$InnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/内部类/OuterClassMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/内部类/OuterClassStatic$InnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/内部类/OuterClassStatic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/内部类/OuterClassTemp$1Temp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/内部类/OuterClassTemp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/内部类/匿名类/BaseInfo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/内部类/匿名类/BaseInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/内部类/匿名类/BaseRule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/内部类/匿名类/CustomerService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/内部类/匿名类/CustomerServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/内部类/匿名类/OuterClassUnnamed$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/内部类/匿名类/OuterClassUnnamed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/列表/ListTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/列表/ListTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/包装类型/IntegerTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/包装类型/IntegerTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/包装类型/IntegerTest03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/包装类型/IntegerTest04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/包装类型/IntegerTest05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/反射机制/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/反射机制/CustomerService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/反射机制/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/反射机制/EmployeeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/反射机制/FieldTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/反射机制/FiledTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/反射机制/MethodTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/反射机制/MethodTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/反射机制/ReflectTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/反射机制/ReflectTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/反射机制/ReflectTest03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/反射机制/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/反射机制/构造方法.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/多态/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/多态/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/多态/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/多态/Master.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/多态/Snack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/多态/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/实现单例模式/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/实现单例模式/SingleTon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/实现单例模式/Test01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/实现单例模式/Test02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/封装/datTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/封装/datUse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/序列化/DeSerialVersionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/序列化/ObjectInputStreamTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/序列化/ObjectOutputStreamTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/序列化/SerialVersionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/序列化/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/ExceptionTest09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/exceptionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/自定义异常/CustomerService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/自定义异常/IlegalNameException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/异常/自定义异常/Test01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/执行先后顺序/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/抽象类/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/抽象类/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/排序/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/排序/SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/Car/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/Car/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/Car/NONDA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/Car/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/Car/YAMAHA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/CustomerServe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/CustomerServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/F.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/InterfaceA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/Review01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/interfaceB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/interfaceC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/interfaceD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/接口/interfaceE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/数据流/BufferedReadTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/数据流/Copy01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/数据流/FileInputStreamTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/数据流/FileInputStreamTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/数据流/FileInputStreamTest03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/数据流/FileInputStreamTest04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/数据流/FileOutputStreamTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/数据流/FileReaderTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/数据流/FileReaderTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/数据流/tmp01.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/方法的覆盖/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/方法的覆盖/A1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/方法的覆盖/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/方法的覆盖/B1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/方法的覆盖/Test01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/权限/package1/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/权限/package1/UserTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/权限/package2/UserTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/构造器/constructTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/构造器/finalTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/构造器/people.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/枚举类型/EnumTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/枚举类型/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/泛型/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/泛型/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/泛型/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/泛型/GenericTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/泛型/GenericTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/泛型/GenericTest03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/泛型/GenericTest04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/泛型/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/泛型/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/泛型/Shopping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/泛型/ShoppingTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/父类调用/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/父类调用/DebitAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/父类调用/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/父类调用/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/父类调用/People.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/父类调用/Servelet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/父类调用/Test01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/DeadLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/Processor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/Processor2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/T1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/T2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/Thread05$MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/Thread05$MyThread1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/Thread05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/ThreadNewCached$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/ThreadNewCached.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/ThreadTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/ThreadTest03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/ThreadTest04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/ThreadWait$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/ThreadWait$Thread1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/ThreadWait$Thread2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/线程锁/ThreadWait.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/链表/LinedListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/链表/Linked$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/链表/Linked.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/链表/LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/链表/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/链表/LinkedTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/链表/LinkedTest01$Entry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/链表/LinkedTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/链表/LinkedTest02$Entry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/链表/LinkedTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/CollectionTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/CollectionTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/CollectionTest03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/CollectionTest04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/CollestionsTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/ProductComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/SetTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/SetTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/SortedSet03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/SortedSet04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/SortedSetTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sladeRode/main/org/nlpcn/commons/utils/集合/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sladeRode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sladeRode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -292,24 +25,24 @@
     <favorites_list name="sladeRode" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/src/字符串拼接.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+            <state relative-caret-position="50">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/projects/Search.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="423">
+                <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -329,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest04.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest05.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest06.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest07.java" />
@@ -377,9 +109,10 @@
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/内部类/匿名类/BaseInfo.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/CollectionTest02.java" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/集合常见问题.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/projects/Search.java" />
+        <option value="$PROJECT_DIR$/src/main/org/nlpcn/commons/src/字符串拼接.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -391,9 +124,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="347" />
-    <option name="y" value="173" />
-    <option name="width" value="1096" />
+    <option name="x" value="86" />
+    <option name="y" value="59" />
+    <option name="width" value="1440" />
     <option name="height" value="823" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -449,6 +182,16 @@
               <item name="nlpcn" type="462c0819:PsiDirectoryNode" />
               <item name="commons" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sladeRode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sladeRode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="nlpcn" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -480,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayTest02">
+  <component name="RunManager" selected="Application.字符串拼接">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -782,13 +525,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.org.nlpcn.commons.utils.Arrays.ArrayTest01" />
+    <configuration name="字符串拼接" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nlpcn.commons.src.字符串拼接" />
       <module name="sladeRode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.org.nlpcn.commons.utils.Arrays.*" />
+          <option name="PATTERN" value="nlpcn.commons.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1003,19 +746,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Test01" />
-      <item itemvalue="Application.ArrayTest01" />
       <item itemvalue="Application.ArrayTest02" />
       <item itemvalue="Application.GenericTest01" />
       <item itemvalue="Application.MapTest01" />
       <item itemvalue="Application.SortedSet03" />
+      <item itemvalue="Application.字符串拼接" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.字符串拼接" />
         <item itemvalue="Application.ArrayTest02" />
         <item itemvalue="Application.SortedSet03" />
         <item itemvalue="Application.MapTest01" />
         <item itemvalue="Application.GenericTest01" />
-        <item itemvalue="Application.ArrayTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -1070,7 +813,10 @@
       <workItem from="1572224838792" duration="3664000" />
       <workItem from="1575533939637" duration="8511000" />
       <workItem from="1576810659073" duration="5732000" />
-      <workItem from="1578195523136" duration="2359000" />
+      <workItem from="1578195523136" duration="2972000" />
+      <workItem from="1578206296768" duration="32000" />
+      <workItem from="1578811685470" duration="40000" />
+      <workItem from="1579001130780" duration="85000" />
     </task>
     <task id="LOCAL-00003" summary="Default Changelist">
       <created>1567432862494</created>
@@ -1153,22 +899,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97628000" />
+    <option name="totallyTimeSpent" value="98398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25482833" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26609442" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="JavaEE:App" order="4" side_tool="true" />
       <window_info id="Palette&#9;" order="5" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891247" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32444444" />
@@ -1180,9 +924,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891247" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32777777" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1190,6 +933,9 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3326389" />
@@ -1238,7 +984,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/StringPart/StringTest02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1497,7 +1242,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/集合/集合常见问题.md" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/utils/链表/Linked.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
@@ -1554,13 +1298,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServlet.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -1584,11 +1321,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/projects/Search.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="425">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="788">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/org/nlpcn/commons/src/字符串拼接.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="423">
+            <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -41,3 +41,6 @@ Java基础知识应知应会，算法工程师需要对工程也有一定深度�
 
 # [Spring基础使用](https://github.com/sladesha/sladeRode/tree/master/src/main/org/nlpcn/commons/src)
 - [IOC](https://github.com/sladesha/sladeRode/blob/master/src/main/org/nlpcn/commons/src/IoC技术.java)
+
+# [Tricks]
+- 字符串拼接
